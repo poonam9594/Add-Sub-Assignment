@@ -1,0 +1,30 @@
+.container{
+    width: 400px;
+    height: 500px;
+    border: 1px solid rgb(92, 85, 85);
+    margin: auto;
+    margin-top: 30px;
+    box-shadow: 5px 5px 5px 5px rgba(50, 48, 46,.5);
+    text-align: center;
+}
+.input{
+    width: 300px;
+    height: 40px;
+    
+}
+.result{
+    text-align: center;
+}
+.button{
+    width: 300px;
+    height: 40px;
+    color: white;
+
+}
+#btn1{
+    background-color: rgb(247 47 143);
+    margin-bottom: 30px;
+}
+#btn2{
+    background-color:rgb(79 45 233);
+}
